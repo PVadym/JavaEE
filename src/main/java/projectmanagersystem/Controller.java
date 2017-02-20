@@ -1,7 +1,7 @@
-package project.manager.system;
+package projectmanagersystem;
 
-import project.manager.system.jbdc.DeveloperDao;
-import project.manager.system.jbdc.SkillDao;
+import projectmanagersystem.jbdc.DeveloperDao;
+import projectmanagersystem.jbdc.SkillDao;
 
 /**
  * Created by Вадим on 18.02.2017.

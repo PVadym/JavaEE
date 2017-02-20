@@ -1,10 +1,10 @@
-package project.manager.system.jbdc;
+package projectmanagersystem.jbdc;
 
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import project.manager.system.Dao;
-import project.manager.system.Developer;
+import projectmanagersystem.Dao;
+import projectmanagersystem.Developer;
 
 import java.sql.*;
 import java.time.LocalDate;

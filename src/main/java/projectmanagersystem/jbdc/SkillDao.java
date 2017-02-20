@@ -1,9 +1,9 @@
-package project.manager.system.jbdc;
+package projectmanagersystem.jbdc;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import project.manager.system.Dao;
-import project.manager.system.Skill;
+import projectmanagersystem.Dao;
+import projectmanagersystem.Skill;
 
 import java.sql.*;
 import java.util.ArrayList;

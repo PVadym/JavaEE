@@ -1,6 +1,4 @@
-package project.manager.system;
-
-import project.manager.system.Developer;
+package projectmanagersystem;
 
 import java.util.List;
 

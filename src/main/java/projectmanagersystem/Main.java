@@ -1,4 +1,4 @@
-package project.manager.system;
+package projectmanagersystem;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,6 +1,5 @@
-package project.manager.system;
+package projectmanagersystem;
 
-import java.sql.Date;
 import java.time.LocalDate;
 
 /**

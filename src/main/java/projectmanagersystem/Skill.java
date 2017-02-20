@@ -1,4 +1,4 @@
-package project.manager.system;
+package projectmanagersystem;
 
 /**
  * Created by Вадим on 19.02.2017.
