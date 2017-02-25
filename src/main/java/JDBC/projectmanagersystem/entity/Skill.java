@@ -1,4 +1,4 @@
-package projectmanagersystem;
+package JDBC.projectmanagersystem.entity;
 
 /**
  * Created by Вадим on 19.02.2017.

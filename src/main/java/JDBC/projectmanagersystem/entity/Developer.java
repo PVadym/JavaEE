@@ -1,4 +1,4 @@
-package projectmanagersystem;
+package JDBC.projectmanagersystem.entity;
 
 import java.time.LocalDate;
 
